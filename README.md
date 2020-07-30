@@ -1,4 +1,9 @@
-### Hi there 👋
+## スターください
+ようこそ。bannzaiのページへ。このページを覗いた人に言うことは一つ。スターください。
+
+Welcome to `bannzai`'s page. You should send star request to all my created repositories. Give me 🌟.
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bannzai)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bannzai/bannzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
