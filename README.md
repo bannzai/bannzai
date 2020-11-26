@@ -6,6 +6,8 @@ Welcome to `bannzai`'s page. You should send star request to all my created repo
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bannzai&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=bannzai&count_private=true&theme=tokyonight&layout=compact)
 
+Personal History → https://github.com/bannzai/personalhistory
+
 
 <!--
 **bannzai/bannzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
