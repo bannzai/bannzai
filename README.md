@@ -4,9 +4,14 @@
 Welcome to `bannzai`'s page. You should send star request to all my created repositories. Give me 🌟.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bannzai&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=bannzai&count_private=true&theme=tokyonight&layout=compact)
 
 Personal History → https://github.com/bannzai/personalhistory
+
+
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 
 
 <!--
