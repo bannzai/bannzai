@@ -1,0 +1,22 @@
+name: LAPRAS Card
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-card:
+    name: LAPRAS Card
+    runs-on: ubuntu-latest
+    steps:
+      - uses: kawamataryo/lapras-card-readme@main
+        with:
+          SHARE_ID: 'CTV66SW'
+          # 以下オプション
+          # https://lapras-card-generator.vercel.app でカスタマイズしたデザインを設定可能
+          # ICON_FIRST: '#030E21'
+          # ICON_SECOND: '#1688BF'
+          # BACKGROUND_FIRST: '#020E27'
+          # BACKGROUND_SECOND: '#0E5593'
+          # LANG: 'ja'
