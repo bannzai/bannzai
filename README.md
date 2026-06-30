@@ -4,12 +4,11 @@
 Welcome to `bannzai`'s page. You should send star request to all my created repositories. Give me 🌟.
 Personal History → https://github.com/bannzai/personalhistory
 
-[![committers.top badge](https://user-badge.committers.top/japan_private/USERNAME.svg)](https://user-badge.committers.top/japan_private/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/japan_private/bannzai.svg)](https://user-badge.committers.top/japan_private/bannzai)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bannzai&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=bannzai&count_private=true&theme=tokyonight&layout=compact)
-
 
 
 <!--START_SECTION:lapras-card-->
