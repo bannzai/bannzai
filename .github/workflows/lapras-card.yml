@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
+# kawamataryo/lapras-card-readme は GITHUB_TOKEN で README.md を更新するため write が要る
+permissions:
+  contents: write
+
 jobs:
   update-card:
     name: LAPRAS Card
